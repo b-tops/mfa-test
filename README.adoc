@@ -16,3 +16,23 @@ image::vs_template.png[700,1100]
 image::target_framework.png[700,1100]
 
 image::configure_new_empty.png[700,1100]
+
+== Package dependencies
+
+* Duende.IdentityServer
+
+These are added automatically:
+
+* Duende.IdentityServer.Storage
+* Microsoft.AspNetCore.Authentication.OpenIdConnect
+* Microsoft.AspNetCore.DataProtection.Abstraction
+
+== Project options
+
+Run in terminal:
+
+image::terminal.png[700,1100]
+
+Set URL:
+
+image::url.png[700,1100]
