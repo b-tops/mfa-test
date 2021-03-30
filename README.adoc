@@ -1,0 +1,6 @@
+= README
+
+== Preparation
+
+Install .NET 5.0 SDK: https://dotnet.microsoft.com/download
+Install Visual Studio fro Mac: https://visualstudio.microsoft.com/vs/mac/
