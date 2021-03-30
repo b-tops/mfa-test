@@ -1,4 +1,5 @@
 = README
+:imagesdir: images
 
 == Preparation
 
@@ -6,3 +7,12 @@
 
 * Install Visual Studio fro Mac: https://visualstudio.microsoft.com/vs/mac/
 
+== New Project
+
+image::new.png[700,1100]
+
+image::vs_template.png[700,1100]
+
+image::target_framework.png[700,1100]
+
+image::configure_new_empty.png[700,1100]
