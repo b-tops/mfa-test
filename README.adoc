@@ -20,12 +20,8 @@ image::configure_new_empty.png[700,1100]
 == Package dependencies
 
 * Duende.IdentityServer
-
-These are added automatically:
-
-* Duende.IdentityServer.Storage
-* Microsoft.AspNetCore.Authentication.OpenIdConnect
-* Microsoft.AspNetCore.DataProtection.Abstraction
+* Microsoft.EntityFrameworkCore
+* Microsoft.EntityFrameworkCore.InMemory
 
 == Project options
 
